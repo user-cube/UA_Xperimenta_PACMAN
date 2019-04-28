@@ -30,25 +30,15 @@ $ yaourt xterm
 ```
 
 ### How to run:
-Run: 
-```
-source venv/bin/actibate
-```
-After that execute:
-```
-$ ./run.sh
-```
-
-### Multiple executions
-Open 2 terminals and run:
-
-Terminal 1:
-```
-$ ./deployServer.sh
+Open 2 terminals.
+On the first one run:
+``` shell
+$ ./xperimentaServer.sh
 ```
 Terminal 2:
-```
-$ python3 multiple.py
+```shell
+$ source venv/bin/actibate
+$ python3 xperimenta.py
 ```
 
 ## Runing into Raspberry Pi
