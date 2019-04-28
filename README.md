@@ -14,19 +14,19 @@ $ pip install -r requirements.txt
 * Intall xterm:
 
 Ubuntu based:
-```
+```shell
 $ sudo apt update
 $ sudo apt install xterm
 ```
 Fedora:
-```
+```shell
 $ sudo dnf update
 $ sudo dnf install xterm
 ```
 
 Arch based:
-```
-$ yaourt xterm
+```shell
+$ sudo pacman -S xterm
 ```
 
 ### How to run:
