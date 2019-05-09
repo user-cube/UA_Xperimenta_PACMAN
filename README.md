@@ -1,6 +1,8 @@
 # Artificial Inteligence - Pacman
 Client-Server PACMAN game using A*.
 
+This code was developed to Xperimenta UA 2019.
+
 ## Install
 
 * Clone this repository
@@ -31,6 +33,7 @@ $ sudo pacman -S xterm
 
 ### How to run:
 Open 2 terminals.
+
 On the first one run:
 ``` shell
 $ ./xperimentaServer.sh
