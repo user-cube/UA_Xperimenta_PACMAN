@@ -1,7 +1,7 @@
 # Artificial Inteligence - Pacman
 Client-Server PACMAN game using A*.
 
-This code was developed to Xperimenta UA 2019.
+This code was developed to Xperimenta UA 2019. The original code can be founded on: [AI_Pacman](https://github.com/user-cube/AI_Pacman)
 
 ## Install
 
